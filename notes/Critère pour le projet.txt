@@ -1,0 +1,8 @@
+BDD 
+Composer
+Requêtes 
+Un formulaire
+MVC
+POO
+
+--> créer un blog
